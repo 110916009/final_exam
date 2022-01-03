@@ -1,0 +1,22 @@
+h1{
+    color: blue;
+    font-family: Arial, Helvetica;
+    margin-left: 5px;
+}
+
+p{
+    margin-left: 5px;
+}
+
+.orange{
+    background-color: red;
+    border-radius:20px;
+    margin-left: 5px;
+    width: 110px;
+}
+
+.broccoli{
+    background-color: yellow;
+    border-radius:20px;
+    width: 110px;
+}
